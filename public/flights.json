@@ -1,0 +1,62 @@
+{
+  "flightInfo": [
+    {
+      "flightNo": "A121",
+      "originCity": "Pune",
+      "originCityCode": "PNQ",
+      "destinationCity": "Delhi",
+      "destinationCityCode": "DEL",
+      "departureTime": "8.00AM",
+      "arrivalTime": "10.00AM",
+      "price": "4500.00"
+    },
+    {
+      "flightNo": "A221",
+      "originCity": "Pune",
+      "originCityCode": "PNQ",
+      "destinationCity": "Delhi",
+      "destinationCityCode": "DEL",
+      "departureTime": "2.00PM",
+      "arrivalTime": "4.00PM",
+      "price": "3000.00"
+    },
+    {
+      "flightNo": "A321",
+      "originCity": "Pune",
+      "originCityCode": "PNQ",
+      "destinationCity": "Delhi",
+      "destinationCityCode": "DEL",
+      "departureTime": "7.00PM",
+      "arrivalTime": "9.00PM",
+      "price": "5000.00"
+    },
+    {
+      "flightNo": "B121",
+      "originCity": "Delhi",
+      "originCityCode": "DEL",
+      "destinationCity": "Pune",
+      "destinationCityCode": "PNQ",
+      "departureTime": "9.00AM",
+      "arrivalTime": "11.00AM",
+      "price": "4500.00"
+    },{
+      "flightNo": "B221",
+      "originCity": "Delhi",
+      "originCityCode": "DEL",
+      "destinationCity": "Pune",
+      "destinationCityCode": "PNQ",
+      "departureTime": "3.00PM",
+      "arrivalTime": "5.00PM",
+      "price": "3000.00"
+    },{
+      "flightNo": "B321",
+      "originCity": "Delhi",
+      "originCityCode": "DEL",
+      "destinationCity": "Pune",
+      "destinationCityCode": "PNQ",
+      "departureTime": "8.30PM",
+      "arrivalTime": "10.30PM",
+      "price": "5000.00"
+    }
+  ]
+}
