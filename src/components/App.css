@@ -1,0 +1,125 @@
+.app-wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.header-wrapper{
+    border-bottom: 2px solid black;
+    padding-left: 20px;
+}
+.flight-form-wrapper{
+    width: 300px;
+    float: left;
+    border-right: 2px solid black;
+    padding-bottom: 20px;
+    height: 580px;
+}
+.flight-form-wrapper h3, .flight-details-wrapper h3{
+    text-align: center;
+}
+.flight-details-wrapper{
+    width: 898px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.search-flight{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.form-wrapper{
+    border: 1px solid black;
+    padding: 20px;
+}
+.form-elem{
+    display: block;
+    margin-bottom: 15px;
+    /* text-transform: capitalize; */
+}
+/* .form-elem::placeholder{
+    text-transform: capitalize;
+} */
+.one-way-button,.return-button{
+    border-radius: 8px 8px 0px 0px;
+    border: 1px solid black;
+    border-bottom: none;
+}
+.return-button{
+    margin-left: -5px;
+}
+.details-header{
+    border-bottom: 2px solid black;
+}
+.code-wrapper{
+    float: left;
+    width: 700px;
+    font-size: 18px;
+    font-weight: 550;
+    margin: 0 30px;
+}
+.date-wrapper{
+    float:left;
+    width:138px;
+    margin-bottom: 20px;
+}
+.details-body-wrapper{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black
+}
+.details-body{
+    float: left;
+    width: 700px;
+}
+.return-details{
+    float:left;
+    width:350px;
+}
+.book-flight{
+    float: left;
+    width: 156px;
+    margin-top: 100px;
+}
+.book-flight button{
+    width: 156px;
+}
+.price{
+    font-weight: bold;
+    font-size: 28px;
+}
+.city-code, .departure-time, .arrival-time{
+    font-size: 18px;
+    padding: 2px 0;
+    font-weight: 550;
+}
+.display-none{
+    display: none;
+}
+.slider-wrapper{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.refine-search{
+    text-align: center;
+    margin: 20px;
+}
+.range-wrapper{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    position: relative;
+}
+.min-value{
+    position: absolute;
+    left: 35px;
+    top: -5px;
+}
+.max-value{
+    position: absolute;
+    right: 20px;
+    top: -5px;
+}
